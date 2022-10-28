@@ -1,0 +1,15 @@
+pydantic==1.10.2
+pendulum==2.1.2
+jsonlines==3.1.0
+hexbytes==0.3.0
+web3==5.31.1
+dask==2022.10.0
+dask[distributed]==2022.10.0
+pandas==1.4.2
+matplotlib==3.6.0
+matplotlib-inline==0.1.2
+matplotlib-venn==0.11.7
+seaborn==0.12.1
+numpy==1.23.4
+jupyter==1.0.0
+black==22.10.0
